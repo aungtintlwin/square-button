@@ -1,0 +1,13 @@
+.center{
+    text-align: center;
+}
+
+
+#box{
+    height: 5em;
+    width: 5em;
+    border:5px solid;
+    text-align: center;
+    margin: 0 auto;
+    background-color: aqua;
+}
